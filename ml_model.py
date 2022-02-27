@@ -10,3 +10,4 @@ def model2():
 
 def model3():
     print("adding all ml related code l3")
+print("m2 modelling is best")
